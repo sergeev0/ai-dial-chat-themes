@@ -85,6 +85,50 @@
         "controls-text-permanent": "#FCFCFC",
         "controls-text-disable": "#DDE1E6"
       }
+    },
+    {
+      "displayName": "Light Orange",
+      "id": "light-orange",
+      "app-logo": "",
+      "font-family": "Helvetica",
+      "colors": {
+        "bg-layer-0": "#FFFFFF",
+        "bg-layer-1": "#F8F8F8",
+        "bg-layer-2": "#FFFFFF",
+        "bg-layer-3": "#FFFFFF",
+        "bg-layer-4": "#E5E5E5",
+        "bg-blackout": "#1111114D",
+        "bg-error": "#F3D6D8",
+        "bg-accent-primary": "#111111",
+        "bg-accent-secondary": "#E47E46",
+        "bg-accent-tertiary": "#E47E46",
+        "bg-accent-primary-alpha": "#111111A",
+        "bg-accent-secondary-alpha": "#E47E4626",
+        "bg-accent-tertiary-alpha": "#E47E4626",
+
+        "text-primary": "#111111",
+        "text-secondary": "#A0A0A0",
+        "text-error": "#AE2F2F",
+        "text-accent-primary": "#111111",
+        "text-accent-secondary": "#111111",
+        "text-accent-tertiary": "#111111",
+
+        "stroke-primary": "#CACACB",
+        "stroke-secondary": "#E5E5E5",
+        "stroke-tertiary": "#E5E5E5",
+        "stroke-hover": "#111111",
+        "stroke-error": "#AE2F2F",
+        "stroke-accent-primary": "#111111",
+        "stroke-accent-secondary": "#E47E46",
+        "stroke-accent-tertiary": "#E47E46",
+
+        "controls-bg-accent": "#E47E46",
+        "controls-bg-accent-hover": "#D76E34",
+        "controls-bg-disable": "#A0A0A0",
+
+        "controls-text-permanent": "#FFFFFF",
+        "controls-text-disable": "#E5E5E5"
+      }
     }
   ],
   "images": {
