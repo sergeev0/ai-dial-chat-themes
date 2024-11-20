@@ -156,7 +156,15 @@
         "bg-topic-image-generation": "#FF6B0026",
         "stroke-topic-image-generation": "#FF6B00",
         "bg-topic-image-recognition": "#4D4DFF26",
-        "stroke-topic-image-recognition": "#4D4DFF"
+        "stroke-topic-image-recognition": "#4D4DFF",
+        "bg-topic-legal": "#6C902626",
+        "stroke-topic-legal": "#6C9026",
+        "bg-topic-experimental": "#37BABC26",
+        "stroke-topic-experimental": "#37BABC",
+        "bg-topic-engineering": "#FF6B0026",
+        "stroke-topic-engineering": "#FF6B00",
+        "bg-topic-general": "#4D4DFF26",
+        "stroke-topic-general": "#4D4DFF"
       }
     }
   ],
